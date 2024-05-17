@@ -22,7 +22,7 @@ Aşağıdaki seçenekler arasından işletim sisteminize uygun olanı indirip ku
 </div>
 <br />
 
-NOT 1: Kurulum yapacağınız hedef klasör (Destination folder) yolunda Türkçe karakter ve boşluk olmadığına dikkat ediniz.
+NOT 1: Kurulum yapacağınız hedef klasör yolunda Türkçe karakter ve boşluk olmadığına dikkat ediniz.
 
 NOT 2: Kurulum sırasında ST-LINK ve SEGGER J-Link sürücülerinin yüklenip yüklenmeyeceği sorulacaktır. Bu sürücüleri seçip yükleme işlemlerine devam ediniz.
 
