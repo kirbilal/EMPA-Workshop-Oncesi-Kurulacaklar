@@ -49,7 +49,7 @@ STM32CubeProgrammer, STM32 mikrodenetleyicileri programlama ve konfigürasyonlar
 </div>
 <br />
 
-# 3- Tera Term Kurulumu
+# 4- Tera Term Kurulumu
 Tera Term, kullanıcıların seri port iletişimi sağlayarak uzak bilgisayarlara erişmelerine ve UART gibi çeşitli iletişim protokolleri aracılığıyla cihazlarla iletişim kurmalarına olanak tanır. Bilgisayar ile geliştirme kartı arasında UART üzerinden iletişim sağlamak için bu program kullanılacaktır.
 Github [sayfasından](https://github.com/TeraTermProject/teraterm/releases) Assets altından dosyasını indiriniz ve kurulumu gerçekleştiriniz.<br />
 <div align="center">
@@ -57,7 +57,7 @@ Github [sayfasından](https://github.com/TeraTermProject/teraterm/releases) Asse
 </div>
 <br />
 
-# 4- SW Paketlerinin Kurulumu
+# 5- SW Paketlerinin Kurulumu
 
 
 Uygulamalarda STM32U5 ailesinden bir mikrodenetleyici kullanılacağı için U5 paketlerinin indirilmesi gereklidir.<br />
